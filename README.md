@@ -14,7 +14,7 @@ You enter a *"What if..."* question, choose a tone, and the AI generates a vivid
 
 You can run this project entirely in your browser with **no setup required**:
 
-[![Open In Colab](https://colab.research.google.com/drive/1TECrbmyMr5-6_0ozYgr0XuEsEZ4axXdx?usp=sharing)
+https://colab.research.google.com/drive/1TECrbmyMr5-6_0ozYgr0XuEsEZ4axXdx?usp=sharing)
 ---
 
 ## ✨ Features
